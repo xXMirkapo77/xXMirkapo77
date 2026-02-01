@@ -11,7 +11,7 @@ I value consistency, operational autonomy, and clarity — in code as in decisio
 ### Programming Languages
 - **Python** — automation, data processing, backend development  (technical use)  
 - **C / C++** — procedural logic, memory management (technical–educational use)  
-- **SQL** — relational databases, normalization, complex queries  
+- **SQL** — relational databases, normalization
 - **Java** — fundamentals, data processing, procedural logic (technical–educational use)  
 - **HTML / CSS** — web structure and styling  
 - **JavaScript** — basic DOM manipulation  
@@ -24,17 +24,18 @@ I value consistency, operational autonomy, and clarity — in code as in decisio
 
 ### Databases
 - **SQLite**
-- **MySQL / phpMyAdmin**
+- **MySQL / phpMyAdmin GUI**
 
 ### Tools & Environments
 - **Git & GitHub** — version control and project management  
-- **VS Code, PyCharm** — development environments  
+- **VS Code, NetBeans, DevCpp** — development environments  
 - **Windows Batch** — scripting and system automation  
 - **Bash (Linux)** — basic scripting and system operations  
 
 ### Operating Systems
-- Windows  
-- Linux (Ubuntu / Debian)
+- Windows  / 9x, 7, 8, 10, 11
+- Windows Server / 2019, 2022
+- Linux (Ubuntu / Debian / Mint)
 
 ---
 
@@ -53,7 +54,10 @@ I value consistency, operational autonomy, and clarity — in code as in decisio
 
 **IT Technical Institute – Computer Science**  
 Marconi–Mangano, Catania (2021–2027)
-
+**Talked Lenguages:**
+Italian C2
+English B2
+Spanish A2
 ---
 
 ## Certifications (Selected)
